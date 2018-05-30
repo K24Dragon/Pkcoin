@@ -1,2 +1,4 @@
-# Pkcoin
-Can blockchain help me get unblocked?
+An example of blockchain on Nodejs 
+Its a 'cute blockchain' xD
+
+Download and  $ npm run build 
